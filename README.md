@@ -2,9 +2,20 @@
 --------
 ### Project Title
 
+[Project Overview](#project-overview)
 
+[Data Sources](#data-sources)
 
+[Tools Used](#tools-used)
 
+[Data Cleaning and Preparations](#data-cleaning-and-preparations) 
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+### Project Overview 
+This project reveals 
 
 ### Data Sources
 The Primary source of Data used here is Data sale.csv and this an open source data that can be freely downloaded from an open source online such as kaggle  
@@ -26,13 +37,12 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
    EDA involved exploring the Data to answer some questions about the Data such as;
  - What is the overall sales trend
  - which product
-
------
+   
 Data Analysis 
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during analysis 
 ``` SQL
 SELECT * FROM EMPLOYEE TABLE
 WHERE CONDITION= TRUE
 ```
-    
-- 
+
+### Data Visualization 
