@@ -1,4 +1,4 @@
-# Tenant Retention Optimization: Building an Interactive Power BI Dashboard for Residential Real Estate Excellence.
+# Tenant Retention Optimization Project 
 
 --------
 ### Project Title
