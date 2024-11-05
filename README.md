@@ -1,7 +1,6 @@
 # Tenant Retention Optimization Project 
 
---------
-### Project Title
+-------
 
 [Business Overview/Problem](#business-overview-/problem)
 
